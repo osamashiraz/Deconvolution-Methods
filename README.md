@@ -52,7 +52,7 @@
   Publication: https://www.nature.com/articles/s41590-018-0276-y
   Tool: https://github.com/LTLA/SingleR 
 
-## Reviews:
+## Reviews and Benchmark Studies:
 1. Comprehensive evaluation of cell-type quantification methods for immuno-oncology  
    Publication: https://www.biorxiv.org/content/biorxiv/early/2018/11/14/463828.full.pdf
    Supplementary: https://grst.github.io/immune_deconvolution_benchmark/index.html
