@@ -45,12 +45,12 @@
 1. MuSic (2019)
   Publication: https://www.nature.com/articles/s41467-018-08023-x
   Tool: https://github.com/xuranw/MuSiC
-2. MuSic (2019)
-  Publication: https://www.nature.com/articles/s41467-018-08023-x
-  Tool: https://github.com/xuranw/MuSiC
-3. BSEQ-sc (2016)
+2. BSEQ-sc (2016)
   Publication: https://www.ncbi.nlm.nih.gov/pubmed/27667365
   Tool: http://github.com/shenorrlab/bseq-sc
+3. CiberSortX (2019):
+  Publication: https://www.nature.com/articles/s41587-019-0114-2#Sec1
+  Tool: https://cibersortx.stanford.edu/
   
 ## c. Input scRNAseq + Reference Pure Expressions  
 1. SingleR (2019):
@@ -59,6 +59,7 @@
 2. DESCEND (2018):
   Publication: https://www.pnas.org/content/pnas/115/28/E6437.full.pdf
   Tool: https://github.com/jingshuw/descend
+
 
 ## Reviews and Benchmark Studies:
 1. Comprehensive evaluation of cell-type quantification methods for immuno-oncology  
@@ -70,3 +71,5 @@
    Publication: https://link.springer.com/content/pdf/10.1007%2Fs00262-018-2150-z.pdf
 4. RNA-Seq Signatures Normalized by mRNA Abundance Allow Absolute Deconvolution of Human Immune Cell Types
    Publication: https://www.cell.com/cell-reports/pdf/S2211-1247(19)30059-2.pdf
+5. A Critical Survey of Deconvolution Methods for Separating Cell-Types in Complex Tissues
+   Publication: https://arxiv.org/abs/1510.04583
