@@ -35,6 +35,10 @@
 11. ABsolute Immune Signal (ABIS) deconvolution (2019)
   Publication: https://www.sciencedirect.com/science/article/pii/S2211124719300592
   Tool: https://github.com/giannimonaco/ABIS
+12. brm-phylo (2019?):
+  Publication: Phylogenies Derived from Matched Transcriptome Reveal the Evolution of Cell Populations and Temporal Order of Perturbed  Pathways in Breast Cancer Brain Metastases (Email Adrian)
+  Tool: https://github.com/brm-phylo/brm-phylo
+
 
 ## b. Input scRNAseq + Bulk RNAseq
 
