@@ -14,7 +14,12 @@
 4. DeMixT (2019):
   Publication: https://www.cell.com/iscience/pdf/S2589-0042(18)30187-1.pdf
   Tool: https://github.com/wwylab/DeMixTallmaterials
-5. IsoPure
+5. IsoPure (2013):
+  Publication: https://genomemedicine.biomedcentral.com/articles/10.1186/gm433
+  Tool: https://static-content.springer.com/esm/art%3A10.1186%2Fgm433/MediaObjects/13073_2013_429_MOESM1_ESM.ZIP
+6. IsoPureR (2019):
+  Publication: https://www.nature.com/articles/s41467-019-10929-z.pdf
+  Tool: https://cran.r-project.org/web/packages/ISOpureR/index.html
 6. quanTIseq (2019):
   Publication: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0638-6#Sec25
   Tool: https://icbi.i-med.ac.at/software/quantiseq/doc/
@@ -49,11 +54,11 @@
 
 ## Reviews:
 1. Comprehensive evaluation of cell-type quantification methods for immuno-oncology  
-  Publication: https://www.biorxiv.org/content/biorxiv/early/2018/11/14/463828.full.pdf
-  Supplementary: https://grst.github.io/immune_deconvolution_benchmark/index.html
+   Publication: https://www.biorxiv.org/content/biorxiv/early/2018/11/14/463828.full.pdf
+   Supplementary: https://grst.github.io/immune_deconvolution_benchmark/index.html
 2. Comprehensive Benchmarking and Integration of Tumour Microenvironment Cell Estimation Method
-  Publication: https://www.biorxiv.org/content/biorxiv/early/2018/10/11/437533.full.pdf
+   Publication: https://www.biorxiv.org/content/biorxiv/early/2018/10/11/437533.full.pdf
 3. Quantifying tumor-infiltrating immune cells from transcriptomics data
-  Publication: https://link.springer.com/content/pdf/10.1007%2Fs00262-018-2150-z.pdf
+   Publication: https://link.springer.com/content/pdf/10.1007%2Fs00262-018-2150-z.pdf
 4. RNA-Seq Signatures Normalized by mRNA Abundance Allow Absolute Deconvolution of Human Immune Cell Types
-  Publication: 
+   Publication: 
