@@ -60,6 +60,10 @@
   Publication: https://www.pnas.org/content/pnas/115/28/E6437.full.pdf
   Tool: https://github.com/jingshuw/descend
 
+## d.Input DNAseq + Karotype
+1. __Absolute__ quantification of somatic DNA alterations in human cancer
+  https://www.nature.com/articles/nbt.2203
+  
 
 ## Reviews and Benchmark Studies:
 1. Comprehensive evaluation of cell-type quantification methods for immuno-oncology  
