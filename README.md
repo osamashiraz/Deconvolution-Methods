@@ -63,7 +63,7 @@
 ## d.Input DNAseq + Karotype
 1. __Absolute__ quantification of somatic DNA alterations in human cancer
   https://www.nature.com/articles/nbt.2203
-  
+  https://software.broadinstitute.org/cancer/cga/absolute
 
 ## Reviews and Benchmark Studies:
 1. Comprehensive evaluation of cell-type quantification methods for immuno-oncology  
